@@ -1,1 +1,2 @@
-# Banking-Application
+The Banking Application project is a simple console-based Java application designed to simulate basic banking operations. This application allows users to create and manage bank accounts, check account balances, deposit funds, withdraw funds, and update account information. The application uses object-oriented principles and provides a user-friendly interface for interacting with the banking system.
+There Features are:- 1. Create Account  2. Existing Account
